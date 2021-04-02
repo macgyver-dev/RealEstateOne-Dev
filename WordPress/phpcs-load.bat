@@ -1,0 +1,1 @@
+phpcs --standard=WordPress wp-load.php
